@@ -1,7 +1,9 @@
-# DLD-Project-2nd-Sem
-This is the repository for my DLD project of 2nd Semester.
-In  our  project  , we  have  performed  addition  , subtraction   and  comparison  of  two  4 – bit  binary  numbers  along  with  both  hardware  and  software  implementation  except  multiplication  which  is  carried  only  in  software
-ELECTRONIC COMPONENTS :
+**Digital Logic Design Project**
+
+This is the repository for my DLD project.
+In  our  project, we  have  performed  addition  , subtraction  , multiplication   and  comparison  of  two  4 – bit  binary  numbers  along  with  both  hardware  and  software  implementation (LogicWorks).
+
+**ELECTRONIC COMPONENTS :**
 
 •	 FOR  ADDITION :
 
@@ -22,7 +24,7 @@ OR  IC  (7432)
 2  Inverter  ICS (7404)
 3  yellow  Leds
 
-•	 OTHER  MAIN COMPONENTS :
+**•	 OTHER  MAIN COMPONENTS :**
 
 3  Breadboards  ,  9 – volt  power  supply , jumper  wires  along  with  simple  wires  and  some  220 -300 ohm  resistors .
 
@@ -39,4 +41,3 @@ Similarly ,  comparator  circuit  is  done  in  two  breadboards  due  to  compl
 •	A > B
 •	A = B
 •	A < B
-
