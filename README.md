@@ -28,11 +28,11 @@ OR  IC  (7432)
 
 3  Breadboards  ,  9 – volt  power  supply , jumper  wires  along  with  simple  wires  and  some  220 -300 ohm  resistors .
 
-SOFTWARE  USED :
+**SOFTWARE  USED :**
 
 We  have  implemented  whole  circuit  of  our  project  in  LogicWorks  by  dividing  the  whole  circuit  into  several  modules  and  testing  each  circuit  operation  individually 
 
-WORKING :
+**WORKING :**
 
 We  have  used  several  ICS , Leds  and  8- bit  dip  switches  in  implementation  of  project.
 Addition  and  subtraction  are  performed  in  a single  breadboard  with  a  8- bit  dip  switch  that  controls  the  output  of  both  operations . 5  white  and  4  green  leds  are  used  for  this  purpose  respectively .
